@@ -1,2 +1,0 @@
-# wondoyeon
-GitHub Pages
