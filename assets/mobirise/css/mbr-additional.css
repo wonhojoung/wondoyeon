@@ -1,7 +1,38 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -839,7 +870,7 @@ blockquote {
   color: #2980b9;
 }
 #header9-b .mbr-section-title B {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #animated-bg1-c .display-1 {
   font-weight: 700;
@@ -910,18 +941,18 @@ blockquote {
 #features7-j .mbr-section-title {
   font-family: 'Roboto', sans-serif;
 }
-#content3-l .mbr-section-title,
-#content3-l .mbr-section-subtitle {
+#content3-n .mbr-section-title,
+#content3-n .mbr-section-subtitle {
   text-align: center;
 }
-#content3-l H3 {
+#content3-n H3 {
   font-family: 'Roboto', sans-serif;
   font-size: 48px;
 }
-#content3-l P {
+#content3-n P {
   font-family: 'Roboto', sans-serif;
 }
-#content3-l B {
+#content3-n B {
   font-size: 25px;
 }
 #features8-k .lead {
@@ -937,6 +968,175 @@ blockquote {
 }
 #features8-k .mbr-section-title {
   font-family: 'Roboto', sans-serif;
+}
+#features7-t .lead {
+  color: #9fa3a7;
+}
+#features7-t .mbr-section-subtitle {
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+#features7-t .mbr-section-text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#features7-t .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+#content3-l .mbr-section-title,
+#content3-l .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-l H3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px;
+}
+#content3-l P {
+  font-family: 'Roboto', sans-serif;
+}
+#content3-l B {
+  font-size: 25px;
+}
+#features8-o .lead {
+  color: #9fa3a7;
+}
+#features8-o .mbr-section-subtitle {
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+#features8-o .mbr-section-text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#features8-o .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+#features7-p .lead {
+  color: #9fa3a7;
+}
+#features7-p .mbr-section-subtitle {
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+#features7-p .mbr-section-text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#features7-p .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+#features8-q .lead {
+  color: #9fa3a7;
+}
+#features8-q .mbr-section-subtitle {
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+#features8-q .mbr-section-text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#features8-q .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+#content3-r .mbr-section-title,
+#content3-r .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-r H3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px;
+}
+#content3-r P {
+  font-family: 'Roboto', sans-serif;
+}
+#content3-r B {
+  font-size: 25px;
+}
+#features8-s .lead {
+  color: #9fa3a7;
+}
+#features8-s .mbr-section-subtitle {
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+#features8-s .mbr-section-text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#features8-s .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+#features7-v .lead {
+  color: #9fa3a7;
+}
+#features7-v .mbr-section-subtitle {
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+#features7-v .mbr-section-text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#features7-v .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+#content3-w .mbr-section-title,
+#content3-w .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-w H3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px;
+}
+#content3-w P {
+  font-family: 'Roboto', sans-serif;
+}
+#content3-w B {
+  font-size: 25px;
+}
+#features8-x .lead {
+  color: #9fa3a7;
+}
+#features8-x .mbr-section-subtitle {
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+#features8-x .mbr-section-text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#features8-x .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+#features7-y .lead {
+  color: #9fa3a7;
+}
+#features7-y .mbr-section-subtitle {
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+#features7-y .mbr-section-text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#features7-y .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+#header1-z .lead {
+  color: #93a3a7;
+  font-style: italic;
+}
+#header1-z .mbr-section-title {
+  text-align: center;
+  font-size: 80px;
+  font-family: 'Roboto', sans-serif;
+}
+#form1-m .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form1-m .form-control-label {
+  color: undefined;
 }
 #footer2-a .mbr-section-text {
   color: #fff;
