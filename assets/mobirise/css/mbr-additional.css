@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -739,13 +740,14 @@ blockquote {
 #menu-3 .link,
 #menu-3 .dropdown-item {
   color: #ffffff;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-3 .link {
-  font-size: 0.875rem;
+  font-size: 0.95rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 0.948rem;
+  font-size: 1.029rem;
 }
 #menu-3 .link:hover,
 #menu-3 .link:focus {
@@ -814,6 +816,9 @@ blockquote {
   font-size: 17px;
   font-family: 'Roboto', sans-serif;
   color: #000000;
+}
+#header9-b .mbr-section-title {
+  color: #2980b9;
 }
 #progress-bar8-2 path[stroke] {
   stroke: #3498db !important;
