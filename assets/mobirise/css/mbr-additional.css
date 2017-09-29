@@ -8,7 +8,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -799,25 +798,22 @@ blockquote {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
 }
-#header9-4 .elements-content {
+#header9-b .elements-content {
   padding-bottom: 50px;
 }
-#header9-4 .mbr-section-subtitle {
+#header9-b .mbr-section-subtitle {
   letter-spacing: 2px;
   margin-bottom: 10px;
   font-weight: 700;
-  font-size: 20px;
 }
-#header9-4 .mbr-section-title,
-#header9-4 .tab-pane {
+#header9-b .mbr-section-title,
+#header9-b .tab-pane {
   color: #000;
 }
-#header9-4 .mbr-section-title {
+#header9-b P {
+  font-size: 17px;
   font-family: 'Roboto', sans-serif;
-}
-#header9-4 P {
   color: #000000;
-  font-family: 'Roboto', sans-serif;
 }
 #progress-bar8-2 path[stroke] {
   stroke: #3498db !important;

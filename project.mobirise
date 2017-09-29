@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -154,8 +154,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#2980b9",
+            "overlayOpacity": "0.4"
           },
           "title": "공대생도 마케터가 될수 있다.\n<br> 상상마케팅스쿨의",
           "text": "지금까지 전문적인 마케팅 교육을 단 한번도 받아보지 못했지만<br> MD가 되기 위하여 많은 실무경험을 쌓고 있는 공대생입니다.<br>전공과 맞지 않는 직업이지만 그 꿈을 이루기 위해 전공자들보다 열심히 달려가고 있습니다.<br><br>어느덧 대학교 4학년 마지막학기&nbsp;<br>전문적인 마케팅 교육을 받을 수 있는 마지막기회<br>이번에는 꼭 합격하겠습니다.",
@@ -188,20 +188,16 @@
             ".mbr-section-subtitle": {
               "letter-spacing": "2px",
               "margin-bottom": "10px",
-              "font-weight": "700",
-              "font-size": "20px"
+              "font-weight": "700"
             },
             ".mbr-section-title, .tab-pane": {
               "color": "#000"
             },
-            ".mbr-section-title": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
             "P": {
-              "color": "#000000",
+              "font-size": "17px",
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#000000"
             }
           },
           "_params": {
@@ -209,7 +205,7 @@
             "showText": true,
             "showImages": true,
             "showTitles": true,
-            "tabs": "5",
+            "tabs": "6",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-2000x750.png",
             "parallax": true,
@@ -224,15 +220,15 @@
             "overlayOpacity": "0.9"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<br>마케팅의 꽃 MD가 되기위한 공대생의 노력",
-          "text": "Merchandiser : 상품화 계획 또는 상품기획을 전문적으로 하는 사람. 약자로 ‘MD’라고도 한다<br>",
+          "title": "\n<br>마케팅의 꽃 MD가 되기위한 공대생의 노력",
+          "text": "Merchandiser : 상품화 계획 또는 상품기획을 전문적으로 하는 사람. 약자로 ‘MD’라고도 한다",
           "title1": "1. MD의 꿈을 꾸다(1)",
           "title2": "2. MD의 꿈을 꾸다(2)",
           "title3": "TRENDY WEBSITE BLOCKS",
           "title4": "HOST ANYWHERE",
           "title5": "IMAGE/CONTENT SLIDER",
           "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-4\" aria-expanded=\"true\">MD의 꿈을 꾸다(1)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-4\" aria-expanded=\"false\">MD의 꿈을 꾸다(2)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-4\" aria-expanded=\"false\">Animated</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-4\" aria-expanded=\"false\">Awesome</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-4\" aria-expanded=\"false\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-4\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-b\" aria-expanded=\"false\">실무경험으로 MD의 꿈을 꾸다(1)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-b\" aria-expanded=\"true\">실무경험으로 MD의 꿈을 꾸다(2)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-b\" aria-expanded=\"false\">창업동아리 활동</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-b\" aria-expanded=\"false\">화장품 제조회사 인턴 (SJ INTERNATIONAL)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-b\" aria-expanded=\"false\">프로그래밍 동아리 (멋쟁이 사자처럼)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-b\" aria-expanded=\"false\">강원창조경제혁신센터 중소상공인 서포터즈</a></li>",
           "media11": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/1-1836x2704.jpg",
@@ -294,13 +290,14 @@
           },
           "media22": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "attachment",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "color": "@primaryColor"
             }
           },
           "media23": {
@@ -347,8 +344,8 @@
               "family": "et-line"
             }
           },
-          "text1": "<b>2학년 군휴학 후 복학하기 전 남은 5개월의 시간이 남아 있었고 아직까지 꿈을 가지고 있지 않은 상태였습니다. 편의점 아르바이트 같이 도움이 되지 않는 일이 아닌 조금이나마 도움이 될 수 있는 경험을 쌓기 위해 집근처 회사에 취직하게 되었습니다. (15년 10월)&nbsp;</b><br><br><b>회사이름은 \"성웅골프산업\" &nbsp;골프매트 분야에서 가장 알아주는 제조업체였고 제가 맡은 임무는 골프매트의 온라인 진출이였습니다. \"탑골프매트\"라는 브랜드를 만들어 온라인 매출을 발생하는것이 목적이었습니다.</b><br><br><b>처음부터 많은 어려움이 있었습니다. 온라인 판매를 하기 위해 필요한 정보와 능력을 인터넷을 통해 혼자서 배워나갔습니다. 제품사진촬영, 쇼핑몰 입점, 상품등록, 상세페이지 제작, 광고관리, 고객CS관리, MD와의 행사준비, 제품포장 및 배송관리 등 여러 업무를 해나갔습니다.</b><br><br><b>공장이 바쁠때는 고무프레스, 본드, 재단까지 도와 일을 하였고 제품생산부터 온라인마케팅, 제품포장, 배송관리까지 전부참여해 회사가 운영되는 과정을 배웠습니다.&nbsp;</b>",
-          "text2": "<b>5개월동안 일하고 학교에 복학하게 되었지만 사장님의 부탁으로 온라인 마케팅 업무를 재택근무로 진행하게 되었습니다. 시간이 지날수록 온라인 매출은 계속 늘어갔고 17년에 와서 오프라인 제외하고 온라인만 연매출 2억 5천만원을 달성했습니다. </b><br><br><b>&nbsp;\"탑골프매트\" 브랜드를 키워오면서 많은 성취감을 느꼈습니다. 네이버 \"골프매트\" 메인키워드 1위, 옥션 메인, G마켓 메인, 위메프 메인에 노출되 었을때에 매출증가를 바로바로 확인할 수 있다는게 일이 힘들지 않고 재밌다고 느끼게 해주었습니다. 비록 매출에 대한 압박감과 책임감이 많이 느껴지는 직업이지만 제 적성에 꼭 맞다고 판단했습니다.</b><br><b><br></b><b>저는 이 일을 계기로 MD의 꿈을 꾸게되었습니다. &nbsp;하지만 전공이 마케팅이 아닌 제 자신의 경쟁력을 높이기 위해 많은 경험을 쌓아야했습니다.</b>",
+          "text1": "2학년 군휴학 후 복학하기 전 남은 5개월의 시간이 남아 있었고 아직까지 꿈을 가지고 있지 않은 상태였습니다. 편의점 아르바이트 같이 도움이 되지 않는 일이 아닌 조금이나마 도움이 될 수 있는 경험을 쌓기 위해 집근처 회사에 취직하게 되었습니다. (15년 10월) \n<br>\n<br>회사이름은 \"성웅골프산업\"  골프매트 분야에서 가장 알아주는 제조업체였고 제가 맡은 임무는 골프매트의 온라인 진출이였습니다. \"탑골프매트\"라는 브랜드를 만들어 온라인 매출을 발생하는것이 목적이었습니다.\n<br>\n<br>처음부터 많은 어려움이 있었습니다. 온라인 판매를 하기 위해 필요한 정보와 능력을 인터넷을 통해 혼자서 배워나갔습니다. 제품사진촬영, 쇼핑몰 입점, 상품등록, 상세페이지 제작, 광고관리, 고객CS관리, MD와의 행사준비, 제품포장 및 배송관리 등 여러 업무를 해나갔습니다.\n<br>\n<br>공장이 바쁠때는 고무프레스, 본드, 재단까지 도와 일을 하였고 제품생산부터 온라인마케팅, 제품포장, 배송관리까지 전부참여해 회사가 운영되는 과정을 배웠습니다.&nbsp;",
+          "text2": "5개월동안 일하고 학교에 복학하게 되었지만 사장님의 부탁으로 온라인 마케팅 업무를 재택근무로 진행하게 되었습니다. 시간이 지날수록 온라인 매출은 계속 늘어갔고 17년에 와서 오프라인 제외하고 온라인만 연매출 2억 5천만원을 달성했습니다. \n<br>\n<br> \"탑골프매트\" 브랜드를 키워오면서 많은 성취감을 느꼈습니다. 네이버 \"골프매트\" 메인키워드 1위, 옥션 메인, G마켓 메인, 위메프 메인에 노출되 었을때에 매출증가를 바로바로 확인할 수 있다는게 일이 힘들지 않고 재밌다고 느끼게 해주었습니다. 비록 매출에 대한 압박감과 책임감이 많이 느껴지는 직업이지만 제 적성에 꼭 맞다고 판단했습니다.\n<br>\n<br>저는 이 일을 계기로 MD의 꿈을 꾸게되었습니다.  하지만 전공이 마케팅이 아닌 제 자신의 경쟁력을 높이기 위해 많은 경험을 쌓아야했습니다.",
           "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
           "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
           "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
@@ -358,7 +355,7 @@
             "Theme"
           ],
           "_name": "header9",
-          "_anchor": "header9-4"
+          "_anchor": "header9-b"
         },
         {
           "_styles": {},
