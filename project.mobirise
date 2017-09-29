@@ -210,8 +210,8 @@
               "color": "#2980b9"
             },
             ".mbr-section-title B": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_params": {
@@ -1247,7 +1247,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kakaotalk-20170929-132417531-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/424142-600x424.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1555,7 +1555,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kakaotalk-20170929-132417531-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/424142-600x424.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
