@@ -1555,13 +1555,14 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/424142-600x424.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kakaotalk-20170929-132417531-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "http://cleaterskin.com",
+              "link": "#top",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "중소상공인 마케팅 서포터즈",
