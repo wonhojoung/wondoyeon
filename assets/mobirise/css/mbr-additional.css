@@ -25,6 +25,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -872,9 +874,13 @@ blockquote {
 }
 #content3-i H3 {
   font-family: 'Roboto', sans-serif;
+  font-size: 48px;
 }
 #content3-i P {
   font-family: 'Roboto', sans-serif;
+}
+#content3-i B {
+  font-size: 25px;
 }
 #features8-h .lead {
   color: #9fa3a7;
@@ -904,6 +910,20 @@ blockquote {
 #features7-j .mbr-section-title {
   font-family: 'Roboto', sans-serif;
 }
+#content3-l .mbr-section-title,
+#content3-l .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-l H3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px;
+}
+#content3-l P {
+  font-family: 'Roboto', sans-serif;
+}
+#content3-l B {
+  font-size: 25px;
+}
 #features8-k .lead {
   color: #9fa3a7;
 }
@@ -920,4 +940,7 @@ blockquote {
 }
 #footer2-a .mbr-section-text {
   color: #fff;
+}
+#footer2-a P {
+  color: #ffffff;
 }

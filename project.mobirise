@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -242,7 +242,7 @@
           "title4": "4. 화장품 제조회사 인턴 (SJ INTERNATIONAL)",
           "title5": "5. 멋쟁이 사자처럼 5기 활동",
           "title6": "6. 중소상공인 서포터즈 MOCA+S",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-b\" aria-expanded=\"true\">실무경험으로 MD의 꿈을 꾸다(1)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-b\" aria-expanded=\"false\">실무경험으로 MD의 꿈을 꾸다(2)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-b\" aria-expanded=\"false\">창업동아리 활동</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-b\" aria-expanded=\"false\">화장품 제조회사 인턴 (SJ INTERNATIONAL)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-b\" aria-expanded=\"false\">프로그래밍 동아리 (멋쟁이 사자처럼)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-b\" aria-expanded=\"false\">강원창조경제혁신센터 중소상공인 서포터즈</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-b\" aria-expanded=\"false\">실무경험으로 MD의 꿈을 꾸다(1)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-b\" aria-expanded=\"false\">실무경험으로 MD의 꿈을 꾸다(2)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-b\" aria-expanded=\"true\">창업동아리 활동</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-b\" aria-expanded=\"false\">화장품 제조회사 인턴 (SJ INTERNATIONAL)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-b\" aria-expanded=\"false\">프로그래밍 동아리 (멋쟁이 사자처럼)</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-b\" aria-expanded=\"false\">강원창조경제혁신센터 중소상공인 서포터즈</a></li>",
           "media11": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/1-1836x2704.jpg",
@@ -626,11 +626,15 @@
             },
             "H3": {
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "48px"
             },
             "P": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "B": {
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -639,8 +643,8 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "15.10~17.03월",
-          "meta": "(주)성웅골프산업 / 온라인마케팅 사원",
+          "title": "15.10월~17.03월",
+          "meta": "<b>(주)성웅골프산업 / 온라인마케팅 사원</b>",
           "_tags": [
             "Theme"
           ],
@@ -762,7 +766,7 @@
             "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#dddddd",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -811,6 +815,38 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "48px"
+            },
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "B": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "16.03월~17.01월",
+          "meta": "<b>창업동아리 활동</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-l"
+        },
+        {
+          "_styles": {
             ".lead": {
               "color": "#9fa3a7"
             },
@@ -854,7 +890,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/noname01-600x337.png",
+              "src": "@PROJECT_PATH@/assets/images/kakaotalk-20170929-130013208-600x388.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -863,9 +899,9 @@
               "title": ""
             }
           },
-          "title1": "위메프 메인배너 노출",
-          "subtitle1": "(주)성웅골프산업",
-          "caption1": "위메프 MD와의 협의를 통하여 위메프 메인에 퍼팅매트 상품을 노출 하였습니다. 일반 투데이특가 구좌가 뿐만 아니라 광고단가 300만원 배너까지 노출한 경력입니다.",
+          "title1": "창업동아리를 통해 기업을 배우다",
+          "subtitle1": "창업동아리 활동",
+          "caption1": "- 강원대 LINC사업단 창업동아리 선정 [100만원 지원]\n<br>- 강원도 창업지원단 창업동아리 선전 [300만원 지원]\n<br>- 전국 대학창업유망팀 300선정 [100만원 상금]\n<br>- 강원대학생창업경진대회 장려상 [50만원 상금]\n<br>- 수저고정배식판 특허출원&nbsp;",
           "number1": "1",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
@@ -894,6 +930,9 @@
           "_styles": {
             ".mbr-section-text": {
               "color": "#fff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -903,7 +942,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#2980b9",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
